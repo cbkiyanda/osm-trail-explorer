@@ -1,0 +1,733 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2013-12-02T05:44:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/224272888",
+      "properties": {
+        "@id": "node/224272888",
+        "addr:housenumber": "17100",
+        "addr:postcode": "H9J 2W2",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Hymus",
+        "addr:suburb": "Kirkland",
+        "amenity": "library",
+        "fax": "+1 514 630 2716",
+        "internet_access": "wlan",
+        "name": "Kirkland municipal library",
+        "name:en": "Kirkland municipal library",
+        "name:fr": "Bibliothèque de Kirkland",
+        "phone": "+1 514 630 2726"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8576771,
+          45.4483419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/244507346",
+      "properties": {
+        "@id": "node/244507346",
+        "amenity": "library",
+        "name": "Bibliothèque de Dorval",
+        "name:en": "Dorval Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7562103,
+          45.4396573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/267188442",
+      "properties": {
+        "@id": "node/267188442",
+        "addr:housenumber": "500",
+        "addr:street": "Saint-Laurent",
+        "amenity": "library",
+        "name": "Bibliothèque Léo-Lecavalier",
+        "phone": "450 444-6710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4982666,
+          45.4153141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/288641826",
+      "properties": {
+        "@id": "node/288641826",
+        "amenity": "library",
+        "created_by": "Potlatch 0.10b",
+        "name": "Bibliotheque municipale Georges-d'Or"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4631942,
+          45.5211785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/290680318",
+      "properties": {
+        "@id": "node/290680318",
+        "amenity": "library",
+        "name": "Bibliothèque municipale Jacques-Ferron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5056241,
+          45.5377188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/293050331",
+      "properties": {
+        "@id": "node/293050331",
+        "amenity": "library",
+        "created_by": "Potlatch 0.10b",
+        "ref": "CA-QMEM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4955332,
+          45.6311597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/306534109",
+      "properties": {
+        "@id": "node/306534109",
+        "amenity": "library",
+        "created_by": "Potlatch 0.10e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6763639,
+          45.5126353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/495773043",
+      "properties": {
+        "@id": "node/495773043",
+        "amenity": "library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.792835,
+          45.6368014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1181921154",
+      "properties": {
+        "@id": "node/1181921154",
+        "amenity": "library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7757468,
+          45.6596774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1199684762",
+      "properties": {
+        "@id": "node/1199684762",
+        "amenity": "library",
+        "name": "Webster Library",
+        "name:fr": "Bibliothèque Webster",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5779337,
+          45.4968158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1282763807",
+      "properties": {
+        "@id": "node/1282763807",
+        "amenity": "library",
+        "name": "Schulich Library of Science and Engineering"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5753377,
+          45.5050499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1282767291",
+      "properties": {
+        "@id": "node/1282767291",
+        "amenity": "library",
+        "name": "Schulich Library of Science and Engineering",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5753377,
+          45.5050499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1282767293",
+      "properties": {
+        "@id": "node/1282767293",
+        "amenity": "library",
+        "name": "Humanities and Social Sciences Library",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.575791,
+          45.5032399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1307401589",
+      "properties": {
+        "@id": "node/1307401589",
+        "addr:city": "Montréal",
+        "addr:housenumber": "535",
+        "addr:street": "Avenue Viger Est",
+        "amenity": "library",
+        "name": "Centre d'archives de Montréal",
+        "source": "NRCan-CanVec-7.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5544728,
+          45.5132585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1433216456",
+      "properties": {
+        "@id": "node/1433216456",
+        "amenity": "library",
+        "name": "Bibliothèque Ahuntsic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6627041,
+          45.5534395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1537672526",
+      "properties": {
+        "@id": "node/1537672526",
+        "amenity": "library",
+        "name": "Bibliothèque Sylvain-Garneau",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7863218,
+          45.6144988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1573462626",
+      "properties": {
+        "@id": "node/1573462626",
+        "amenity": "library",
+        "name": "Bibliothèque Saint-Charles",
+        "opening_hours": "Mo-Fr 09:00-18:00; Tu,We 13:00-20:00; Sa 10:00-17:00; Su 12:00-17:00",
+        "website": "http://ville.montreal.qc.ca/portal/page?_pageid=7757,84701622&_dad=portal&_schema=PORTAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5637157,
+          45.4791442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1708814484",
+      "properties": {
+        "@id": "node/1708814484",
+        "amenity": "library",
+        "name": "Bibliothèque Municipale de Sainte-Thérèse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8391948,
+          45.6433049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1885874525",
+      "properties": {
+        "@id": "node/1885874525",
+        "amenity": "library",
+        "name": "Bibliothèque de Blainville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8744652,
+          45.6795154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1924398000",
+      "properties": {
+        "@id": "node/1924398000",
+        "amenity": "library",
+        "name": "Bibliothèque de Pierrefonds"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8475237,
+          45.4960661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1933037663",
+      "properties": {
+        "@id": "node/1933037663",
+        "amenity": "library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8865479,
+          45.5606232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1963991297",
+      "properties": {
+        "@id": "node/1963991297",
+        "amenity": "library",
+        "name": "Bibliotheque Municipale Emile-Nelligan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7078885,
+          45.5521693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2007350015",
+      "properties": {
+        "@id": "node/2007350015",
+        "amenity": "library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6708027,
+          45.4451836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2249505315",
+      "properties": {
+        "@id": "node/2249505315",
+        "amenity": "library",
+        "name": "Bibliothèque Reginald-Dawson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6464906,
+          45.5140014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2296203845",
+      "properties": {
+        "@id": "node/2296203845",
+        "addr:city": "Montréal",
+        "addr:housename": "Complexe William-Hingston",
+        "addr:housenumber": "421",
+        "addr:postcode": "H3N 1K2",
+        "addr:street": "Rue St-Roch",
+        "amenity": "library",
+        "name": "Bibliothèque de Parc-Extension",
+        "phone": "514-872-6071",
+        "website": "http://bibliomontreal.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6290057,
+          45.5314777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2334052187",
+      "properties": {
+        "@id": "node/2334052187",
+        "amenity": "library",
+        "name": "Bibliothèque Laure-Conan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7407472,
+          45.6157629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2406164678",
+      "properties": {
+        "@id": "node/2406164678",
+        "amenity": "library",
+        "name": "Bibliothèque Robert-Bourassa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6084479,
+          45.5177794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2406495181",
+      "properties": {
+        "@id": "node/2406495181",
+        "amenity": "library",
+        "name": "bibliothèque de l'Ile des soeurs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5472071,
+          45.4571325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2424892850",
+      "properties": {
+        "@id": "node/2424892850",
+        "amenity": "library",
+        "name": "La Grande Bibliothèque",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5615594,
+          45.515411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2433948971",
+      "properties": {
+        "@id": "node/2433948971",
+        "amenity": "library",
+        "level": "4",
+        "name": "Bibliothèque de droit",
+        "operator": "Université de Montréal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6170502,
+          45.498725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2433948972",
+      "properties": {
+        "@id": "node/2433948972",
+        "amenity": "library",
+        "level": "8",
+        "name": "Bibliothèque de physique",
+        "operator": "Université de Montréal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6148234,
+          45.5029925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2433948973",
+      "properties": {
+        "@id": "node/2433948973",
+        "amenity": "library",
+        "level": "7",
+        "name": "Bibliothèque de chimie",
+        "operator": "Université de Montréal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6147649,
+          45.503135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2433948974",
+      "properties": {
+        "@id": "node/2433948974",
+        "amenity": "library",
+        "level": "6",
+        "name": "Bibliothèques des sciences de la santé",
+        "operator": "Université de Montréal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.614727,
+          45.5026445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2433948975",
+      "properties": {
+        "@id": "node/2433948975",
+        "amenity": "library",
+        "name": "Bibliothèque des lettres et sciences humaines",
+        "operator": "Université de Montréal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6167547,
+          45.4994054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2433948976",
+      "properties": {
+        "@id": "node/2433948976",
+        "amenity": "library",
+        "level": "2",
+        "name": "Bibliothèque de mathématiques et informatique",
+        "operator": "Université de Montréal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6155064,
+          45.5008286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2459774504",
+      "properties": {
+        "@id": "node/2459774504",
+        "addr:city": "Montréal",
+        "addr:housenumber": "5606",
+        "addr:street": "Avenue Monkland",
+        "amenity": "library",
+        "name": "Kidlink",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6228212,
+          45.4753884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2479618015",
+      "properties": {
+        "@id": "node/2479618015",
+        "addr:city": "Montréal",
+        "addr:housenumber": "12002",
+        "addr:street": "Boulevard Rolland",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "name": "Bibliothèque de la Maison culturelle et communautaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6202417,
+          45.614989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2495422960",
+      "properties": {
+        "@id": "node/2495422960",
+        "amenity": "library",
+        "name": "La librairie de Verdun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5674358,
+          45.4594818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2496678398",
+      "properties": {
+        "@id": "node/2496678398",
+        "amenity": "library",
+        "name": "Librairie chétienne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5667105,
+          45.4645343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2500240141",
+      "properties": {
+        "@id": "node/2500240141",
+        "addr:housenumber": "5851",
+        "addr:postcode": "H4W 2X8",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Cavendish",
+        "addr:suburb": "Côte Saint-Luc",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "name": "Eleanor London Côte Saint-Luc Public Library",
+        "phone": "+1 514 485 8659",
+        "website": "http://csllibrary.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6642474,
+          45.4775965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2505201225",
+      "properties": {
+        "@id": "node/2505201225",
+        "addr:city": "Montréal",
+        "addr:housename": "AEELI",
+        "addr:housenumber": "2035",
+        "addr:postcode": "H2X 2T3",
+        "addr:street": "Rue Saint-Laurent",
+        "amenity": "library",
+        "books": "Anarchism",
+        "name": "Bibliothèque DIRA",
+        "operator": "independent",
+        "operator:type": "community",
+        "phone": "+1 514 8432018",
+        "website": "http://bibliothequedira.wordpress.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5674766,
+          45.5117053
+        ]
+      }
+    }
+  ]
+}
